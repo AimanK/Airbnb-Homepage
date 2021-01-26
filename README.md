@@ -1,4 +1,4 @@
-# Airbnb Homepage clone
+# React.js Airbnb Homepage clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
